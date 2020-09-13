@@ -1,5 +1,6 @@
 # 090_SANSKAR_SHARMA
-AI Lab Assignments of Sanskar Sharma, PRN: 0120180381, Roll number: 090
+AI Lab Assignments of Sanskar Sharma, PRN: 0120180381, Roll number: 090.
+
 The following repository contains:
 1. Family Tree using Prolog
 2. Expert System: "Floyd" A chatbot
